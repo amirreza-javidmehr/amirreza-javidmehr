@@ -1,7 +1,7 @@
  <h1 align="center"'>Hi👋, I'm Amirreza Javidmehr</h1>
 <ul>
   <li>
-👯 I’m looking to collaborate on <h5 direction = "inline-block">Django Project</h5>
+👯 I’m looking to collaborate on <h5 display = "inline-block">Django Project</h5>
   </li>
   <li>
  📫 How to reach me: <a href='mailto:amirreza.javidmehr@gmail.com'>amirreza.javidmehr@gmail.com</a>
