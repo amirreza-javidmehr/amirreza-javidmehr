@@ -1,4 +1,4 @@
- <h1 style='text-align: center'>Hi👋, I'm Amirreza Javidmehr</h1>
+ <h1 style='text-align: center;'>Hi👋, I'm Amirreza Javidmehr</h1>
 <ul>
   <li>
  👯 I’m looking to collaborate on Django Project
