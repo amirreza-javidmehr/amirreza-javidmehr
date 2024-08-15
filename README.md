@@ -4,6 +4,6 @@
  👯 I’m looking to collaborate on Django Project
     </li>
   <li>
- 📫 How to reach me: <a href='amirreza.javidmehr@gmail.com'>amirreza.javidmehr@gmail.com</a>
+ 📫 How to reach me: <a href='/amirreza.javidmehr@gmail.com'>amirreza.javidmehr@gmail.com</a>
     </li>
 </ul>
